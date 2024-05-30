@@ -29,7 +29,7 @@ state-of-the-art models
 # Software requirements:
 - Numpy, scipy, pytorch, sklearn, matplotlib, pandas
 
-- To download the dependencies: **pip3 install -r requirements.txt**
+- To download the dependencies: **!pip install -r requirements.txt**
 
 - The code can be run on any PC.
 
