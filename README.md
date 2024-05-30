@@ -4,6 +4,28 @@ This repository is for the Experiment Section of the paper: "SegXAL: Explainable
 
 Authors: Sriram Mandalika, Athira Nambiar
 
+# Abstract
+Most of the sophisticated AI models utilize huge amounts
+of annotated data and heavy training for high-end performance. However, for real-world deployment, there are some predominant informative factors such as domain knowledge, priors and human domain expertise, which are not yet effectively utilized in the existing AI models.
+As a result, a semantic gap exists between humans and machines, that
+hinders “in-the-wild” applications, in terms of efficient use of available
+data, human expertise and interpretation of the results. To this end,
+we propose a novel Explainable Active Learning (XAL) model that can
+facilitate the “Human-in-the-loop” paradigm and augment the model
+decisions in an interpretable way. In particular, we investigate the proposed XAL paradigm towards the semantic segmentation task in driving
+scene scenarios, which is termed as ‘XAL-based semantic segmentation model “SegXAL” for the driving scene scenarios’. The SegXAL
+model proposes the image regions that require labelling assistance from
+Oracle by dint of explainable AI (XAI) and uncertainty measures in a
+weakly-supervised manner. This learning will be further augmented into
+the unlabelled data via an active learning strategy. Specifically, we leverage Grad-CAM-based XAI and Entropy-based uncertainty metrics to
+enable the machine teachers” (human experts) to provide intuitive rea-
+soning behind the results and to solicit feedback to the AI system. Such a
+mechanism bridges the semantic gap between man and machine through
+collaborative intelligence, where humans and AI actively enhance each
+other’s complementary strengths. Extensive quantitative and qualitative analyses are carried out in the Cityscape dataset. Results show the
+superior performance of our proposed XAL model compared with the
+state-of-the-art models
+
 # Software requirements:
 - Numpy, scipy, pytorch, sklearn, matplotlib, pandas
 
