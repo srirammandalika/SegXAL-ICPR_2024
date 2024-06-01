@@ -27,7 +27,7 @@ superior performance of our proposed XAL model compared with the
 state-of-the-art models
 
 ## Our Network
-![The Network](assets/XAL_Cityscape_new.pdf)
+![The Network](assets/XAL_Cityscape_new.png)
 
 
 # Software requirements:
