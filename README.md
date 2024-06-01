@@ -26,6 +26,10 @@ other’s complementary strengths. Extensive quantitative and qualitative analys
 superior performance of our proposed XAL model compared with the
 state-of-the-art models
 
+## Our Network
+![The Network](assets/XAL_Cityscape_new.pdf)
+
+
 # Software requirements:
 - Numpy, scipy, pytorch, sklearn, matplotlib, pandas
 
