@@ -1,11 +1,31 @@
-# SegXAL: Explainable Active Learning for Semantic Segmentation in Driving Scene Scenarios
+<div align="center">
+  <div>
+  <h1>SegXAL: Explainable Active Learning for Semantic Segmentation in Driving Scene Scenarios</h1> 
 
-This repository is for the Experiment Section of the paper: "SegXAL: Explainable Active Learning for Semantic Segmentation in Driving Scene Scenarios" which was submitted to 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=srirammandalika.SegXAL-ICPR_2024&left_color=green&right_color=red) [![arXiv](https://img.shields.io/badge/arXiv-2408.04482-b31b1b?logo=arxiv&style=flat-square)](https://arxiv.org/abs/2408.04482)
 
-Authors: Sriram Mandalika, Athira Nambiar
+  </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SUSI-Lab.750121247&left_color=green&right_color=red) [![arXiv](https://img.shields.io/badge/arXiv-2408.04482-b31b1b?logo=arxiv&style=flat-square)](https://arxiv.org/abs/2408.04482)
+</div>
 
+<div align="center">
+
+<div>
+    <a href='https://srirammandalika.github.io/' target='_blank'>Sriram Mandalika</a><sup>1</sup>&emsp;
+    <a href='https://www.srmist.edu.in/faculty/dr-athira-m-nambiar/' target='_blank'>Athira Nambiar</a><sup>1</sup>&emsp;
+<!--     <a href='' target='_blank'>Enzo Tartaglione</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Stéphane Lathuilière </a><sup>1</sup> -->
+</div>
+<div>
+<sup>1</sup>SRM Institute of Science and Technology, Kattankulathur, India - 603203&emsp;
+
+<!-- <sup>2</sup>University of Trento, Italy&emsp; -->
+</div>
+</div>
+
+<br>
+
+The code repository for "[SegXAL: Explainable Active Learning for Semantic Segmentation in Driving Scene Scenarios](https://arxiv.org/abs/2408.04482)" in PyTorch.
 
 ## Abstract
 Most of the sophisticated AI models utilize huge amounts
