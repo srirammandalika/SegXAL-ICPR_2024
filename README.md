@@ -4,6 +4,9 @@ This repository is for the Experiment Section of the paper: "SegXAL: Explainable
 
 Authors: Sriram Mandalika, Athira Nambiar
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SUSI-Lab.750121247&left_color=green&right_color=red) [![arXiv](https://img.shields.io/badge/arXiv-2408.04482-b31b1b?logo=arxiv&style=flat-square)](https://arxiv.org/abs/2408.04482)
+
+
 ## Abstract
 Most of the sophisticated AI models utilize huge amounts
 of annotated data and heavy training for high-end performance. However, for real-world deployment, there are some predominant informative factors such as domain knowledge, priors and human domain expertise, which are not yet effectively utilized in the existing AI models.
